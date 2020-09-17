@@ -1,0 +1,12 @@
+Data Section:
+
+
+The dataset regarding to this project contains all kinds of collisions in Seattle from 2004 to 2020. To predict the damage level of road accidents, the indicator 'SEVERITUCODE' is chosen as the dependent variable. Normally, the degree of collision climbs up from property damage, injury, serious injury finally to fatality. Among dozens of attributes, this project concentrates on both nature and human factors which may lead to car accidents.
+
+COLLISIONTYPE 	: This shows a detailed description of the severity of the accident.
+INATTENTIONIND 	: Whether or not collision was due to inattention. (Y/N)
+UNDERINFL 	: Whether or not a driver involved was under the influence of drugs or alcohol.
+WEATHER 	: A description of the weather conditions during the time of the collision.
+ROADCOND 	: The condition of the road during the collision.
+LIGHTCOND	: The light conditions during the collision.
+SPEEDING	: Whether or not speeding was a factor in the collison.(Y/N)

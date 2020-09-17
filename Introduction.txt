@@ -1,0 +1,7 @@
+Seattle Traffic accident Severity Prediction
+
+Introduction: Traffic accidents have become one of common problems around the globe and it has risen to 3rd major reason for mortality rate among countries by 2020. Citizens feel lack of security while driving on road, while crossing on streets and even while walking along pedestrians. Vehicle manufacturers have invested a lot for giving their vehicles a strong body and softwares to detect a collision but it is not helping much. Seattle Department of Transportation provides traffic accident cases from 2004 for almost 15 years to discover the reasons behind these collisions.
+
+Business Problem: The purpose of this model is to analyze the collision dataset for Seattle City. If we notice we can see there is always some pattern in occurance of an event. Same way here we can find patterns and determinate key factors such as weather, light and road conditions, drug or alcohol influence, etc to provide the best traffic accident severity prediction. It will use various analytical techniques and machine learning classification algorithms such as logistic regression, decision tree analysis, etc.
+
+
